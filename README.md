@@ -2,6 +2,9 @@
 
 O projeto tem como objetivo facilitar a comunicação entre moradores e administradores responsáveis pela manutenção da cidade, permitindo o registro, acompanhamento e gerenciamento de denúncias relacionadas a problemas urbanos, como buracos em vias públicas, iluminação defeituosa, descarte irregular de lixo e outros incidentes que impactam a qualidade de vida da população.
 
+
+🔗 Acesse o sistema:  https://nataliarodriguesz.github.io/aep-denuncias-urbanas/
+
 ---
 
 ## 📋 Objetivos do Projeto
