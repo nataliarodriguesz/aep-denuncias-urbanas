@@ -240,17 +240,10 @@ Tecnologias utilizadas:
 
 A interface possui:
 
-### Área do Morador
-
 - Cadastro de denúncias
 - Consulta de denúncias
 - Acompanhamento de status
-
-### Área do Administrador
-
-- Visualização das denúncias
-- Alteração de status
-- Consulta do histórico
+- Consulta do histórico de ações
 
 ---
 
